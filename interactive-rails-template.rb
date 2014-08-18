@@ -1,5 +1,3 @@
-if yes?("Delete public/index.html")
-  inside("vendor") do
-    File.delete("index.html")
-  end
+if yes?("Delete 'public/index.html'?")
+  File.delete("public/index.html")
 end
