@@ -4,4 +4,4 @@ This is a interactive rails template, which ask you what to do and configure man
 
 ## Usage
 
-  $ rails new <app_name> -m http://git.io/YkLJjQ
+    $ rails new <app_name> -m http://git.io/YkLJjQ
